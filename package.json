@@ -1,0 +1,15 @@
+{
+  "name": "unflow-me",
+  "version": "1.0.0",
+  "description": "CLI for removing flow annotations from directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flow-remove-types": "^1.2.3",
+    "fs-extra": "^7.0.1"
+  }
+}
